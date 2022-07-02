@@ -1,5 +1,8 @@
 # Research-Numerical-Automatics
 
+![Arduion](https://user-images.githubusercontent.com/92337987/177014570-9fa7838a-2b70-4a80-a549-0d71f24b81ee.png)
+
+
 **Report for the 3A** 
 
 [Dmytro_Savchuk_Automatique_Numerique_Report_3A_IA2R.pdf](https://github.com/Jokuchh/Research-Numerical-Automatics/files/8840056/Dmytro_Savchuk_Automatique_Numerique_Report_3A_IA2R.pdf)
